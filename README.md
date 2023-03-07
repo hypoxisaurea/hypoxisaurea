@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypoxisaurea&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypoxisaurea&layout=compact)](https://github.com/hypoxisaurea/github-readme-stats)
