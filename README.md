@@ -2,7 +2,7 @@
 
 <!--**hypoxisaurea/hypoxisaurea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:77a1d3,100:e684ae&height=180&section=header&text=the%20Voyager&animation=fadeIn&fontSize=40&fontAlignY=35&fontAlign=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:77a1d3,100:e684ae&height=180&section=header&text=&animation=fadeIn&fontSize=40&fontAlignY=35&fontAlign=80&fontColor=ffffff)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhypoxisaurea&count_bg=%23B0A3CD&title_bg=%237C7A7A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhypoxisaurea&count_bg=%e684ae&title_bg=%23787878&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
