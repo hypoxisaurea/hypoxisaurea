@@ -4,11 +4,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:77a1d3,100:e684ae&height=180&section=header&text=the%20Voyager&animation=fadeIn&fontSize=40&fontAlignY=35&fontAlign=80&fontColor=ffffff)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhypoxisaurea&count_bg=%2377A1D3&title_bg=%23787878&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhypoxisaurea&count_bg=%23B0A3CD&title_bg=%237C7A7A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhypoxisaurea&count_bg=%e684ae&title_bg=%23787878&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypoxisaurea&layout=compact)
-<br><br>
+<br><br><br>
 
 ## Skill :four_leaf_clover:
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
