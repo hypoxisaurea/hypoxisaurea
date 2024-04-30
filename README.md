@@ -29,7 +29,6 @@
     	<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     	<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    	<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
     	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -48,6 +47,7 @@
 	<img src="https://img.shields.io/badge/Jupyter-E34F26?style=flat-square&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Conda-E34F26?style=flat-square&logo=Anaconda&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
+    	<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
 	<img src="https://img.shields.io/badge/Google colab-6DB33F?style=flat-square&logo=Google colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyCharm-003545?style=flat-square&logo=PyCharm&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
