@@ -60,7 +60,10 @@
 </div>
 <div>
 	<a href="https://successful-clownfish-3bd.notion.site/1e8c25f25af44ba5b067b2fb7513f271?pvs=74">
-		<img src="https://img.shields.io/badge/Notion-lightgray?style=flat-square&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
+	</a>
+	<a href="https://the14voyager.tistory.com/">
+		<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" />
 	</a>
 	<a href="https://github.com/hypoxisaurea">
 		<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Blogger&logoColor=white" />
