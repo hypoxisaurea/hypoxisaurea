@@ -12,11 +12,12 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=Python&logoColor=white" />
+  	<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SQL-1572B6?style=flat-square&logo=MYSQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tensorflow-0769AD?style=flat-square&logo=Tensorflow&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-4479A1?style=flat-square&logo=Selenium&logoColor=white" />
 </div>
 <br>
@@ -25,16 +26,18 @@
 	<p>🍀 Used at Least Once 🍀</p>
 </div>
 <div>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-    <br>
+    	<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+    	<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+    	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+    	<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+    	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+	<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
+    	<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+   	<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+    	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+    	<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white">
 </div>
 <br>
 
@@ -63,7 +66,7 @@
 		<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:baesy1004@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-red?style=flat-square&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-e10915?style=flat-square&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="mailto:flickerlight14@naver.com">
 		<img src="https://img.shields.io/badge/Mail-43B02A?style=flat-square&logo=Naver&logoColor=white" />
