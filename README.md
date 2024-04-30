@@ -105,8 +105,8 @@
 ## Project
 |구분|프로젝트명|링크|
 |:---:|:---:|:---:|
-|Android|대학교재 중고거래 어플리케이션|[링크](https://github.com/hypoxisaurea/book_crowded)|
-|Web / Frontend|오프라인 행사 매칭 및 기록 서비스|[링크](https://github.com/hypoxisaurea/Career_Festival_Front)|
+|Android|대학교재 중고거래 어플리케이션 "북적북적"|[링크](https://github.com/hypoxisaurea/book_crowded)|
+|Web / Frontend|오프라인 행사 매칭 및 기록 서비스 "Career Festival"|[링크](https://github.com/hypoxisaurea/Career_Festival_Front)|
 
 
 
