@@ -88,7 +88,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2020.03 ~ |한성대학교|컴퓨터공학부|학사|재학|
 |2024.01 ~ 2024.02|LG|LG AI aimers 4기|교육|수료|
-|2024.01 ~ 2024.02|Naver|Naver Coaching Study|교육|수료|
+|2024.01 ~ 2024.02|Naver|Naver Coaching Study - Data Science|교육|수료|
 
 <br>
 
