@@ -103,3 +103,4 @@
 | Android | 대학교재 중고거래 어플리케이션 "북적북적" | [링크](https://github.com/hypoxisaurea/book_crowded) |
 | Web / Frontend | 오프라인 행사 매칭 및 기록 서비스 "Career Festival" | [링크](https://github.com/hypoxisaurea/Career_Festival_Front) |
 | Web / Frontend | 감정 분석 컨텐츠 추천 일기 서비스 "Suzip" | [링크](https://github.com/hypoxisaurea/SUZIP-Frontend.git) |
+| Web / Frontend | AI 기반 웹툰 장면 검색 서비스 "Toon Surfing" | [링크](https://github.com/hypoxisaurea/toonsurfing_frontend.git) |
