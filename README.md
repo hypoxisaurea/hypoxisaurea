@@ -85,7 +85,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 2024.01 ~ 2024.02 | LG | LG AI aimers 4기 | 교육 | 수료 |
 | 2024.01 ~ 2024.02 | Naver | Naver Coaching Study - Data Science | 교육 | 수료 |
-| 2024.07 ~ | SK | SK AI Data Academy 1기 | 교육 | 진행 중 |
+| 2024.07 ~ | SK | SK AI Data Academy 1기 | 교육 | 수료 |
 <br>
 
 ## Experience
