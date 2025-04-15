@@ -85,7 +85,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 2024.01 ~ 2024.02 | LG | LG AI aimers 4기 | 교육 | 수료 |
 | 2024.01 ~ 2024.02 | Naver | Naver Coaching Study - Data Science | 교육 | 수료 |
-| 2024.07 ~ | SK | SK AI Data Academy 1기 | 교육 | 수료 |
+| 2024.07 ~ 2024.08 | SK | SK AI Data Academy 1기 | 교육 | 수료 |
+| 2025.04 ~ 2025.07 | Kiwoom | Kiwoom Digital Academy 1기 | 교육 | |
 <br>
 
 ## Experience
@@ -94,7 +95,7 @@
 | 2020.09 ~ 2021.02 | 설리번 프로젝트 | 프로젝트 기획, 개발, 교육 자료 제작 및 교육 진행<br>Flutter를 이용한 크로스플랫폼 일기장 어플리케이션 개발 |
 | 2023.09 ~ 2024.02 | UMC 5기 | Front-end 파트 React 스터디장 |
 | 2024.01.31 | Hult Prize | 창업 아이디어 경진 대회 NLP 기반 서비스 출품 |
-| 2024.03 ~ | Prometheus 5기 | 대학생 연합 AI 동아리 |
+| 2024.03 ~ 2025.02 | Prometheus 5기 | 대학생 연합 AI 동아리 |
 <br>
 
 ## Project
