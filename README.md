@@ -105,3 +105,10 @@
 | Web / Frontend | 오프라인 행사 매칭 및 기록 서비스 "Career Festival" | [링크](https://github.com/hypoxisaurea/Career_Festival_Front) |
 | Web / Frontend | 감정 분석 컨텐츠 추천 일기 서비스 "Suzip" | [링크](https://github.com/hypoxisaurea/SUZIP-Frontend.git) |
 | Web / Frontend | AI 기반 웹툰 장면 검색 서비스 "Toon Surfing" | [링크](https://github.com/hypoxisaurea/toonsurfing_frontend.git) |
+<br>
+
+## Prize
+| 날짜 | 대회명 | 상세 |
+|:---:|:---:|:---:|
+|  | 스마일게이트 AI 위클리톤 | 인기상 |
+| 2025.02 | 제주 런케이션 AI 해커톤 | 대상 |
