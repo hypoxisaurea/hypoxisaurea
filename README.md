@@ -10,7 +10,7 @@
 </div>
 <br>
   <div>
-    <b>Bachelor’s degree holder in Computer Science, exploring LLMs, NLP, and Data Science.</b>
+    <b>🚀 Bachelor’s degree of Computer Science, exploring LLMs, NLP, and Data Science.</b>
   </div>
 <br>
 <div>
