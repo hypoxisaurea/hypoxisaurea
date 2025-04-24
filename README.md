@@ -1,13 +1,18 @@
 <div align="center">
   <!--**hypoxisaurea/hypoxisaurea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
   <!--|2020.03 ~ |한성대학교|컴퓨터공학부|학사|재학|-->
+  
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhypoxisaurea&count_bg=%23B0A3CD&title_bg=%237C7A7A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypoxisaurea&layout=compact)
 </div>
 </div>
-<br><br>
+<br>
+  <div>
+    <p>Bachelor’s degree holder in Computer Science, exploring LLMs, NLP, and Data Science.</p>
+  </div>
+<br>
 <div>
   <h3>📚 Tech Stack 📚</h3>
   <p>✨ Platforms & Languages ✨</p>
